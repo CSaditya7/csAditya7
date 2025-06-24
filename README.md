@@ -2,6 +2,7 @@
 A passionate Software Engineer to be.
 ![image](https://github.com/user-attachments/assets/b72091cd-b4b0-4102-98a0-8013b05f5861)
 I am currently learning Frontend Web Developement,DSA,etc.
+<br/>
 How to reach me:
 adityapandey2105@gmail.com
 Connect with me:
